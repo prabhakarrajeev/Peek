@@ -7,7 +7,7 @@ Pre-requisites
 3. The webservice is running by default on port3000. It can be changed by giving the "-p=<port>" on the executable
 
 Compile procedure
-1. cd server
+1. cd Peek/server
 2. mkdir build
 3. cd build
 4. cmake ..
